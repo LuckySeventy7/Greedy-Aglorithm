@@ -1,0 +1,7 @@
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\obj\Debug\act_3_casino.MainForm.resources
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\obj\Debug\act_3_casino.csproj.GenerateResource.Cache
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\bin\Debug\act_3_casino.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\bin\Debug\act_3_casino.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\obj\Debug\act_3_casino.exe
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\obj\Debug\act_3_casino.pdb
+C:\Users\Sergio Ruiz\Documents\SharpDevelop Projects\act_3_casino\act_3_casino\obj\Debug\act_3_casino.csprojResolveAssemblyReference.cache
